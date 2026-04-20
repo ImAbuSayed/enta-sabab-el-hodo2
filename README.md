@@ -10,7 +10,7 @@
 |-------|---------|
 | 🎵 **Title** | Enta Sabab El Hodo2 |
 | ✍️ **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| 📅 **Date Written** | April 20, 2026 |
+| 📅 **Date Written** | April 21, 2026 |
 | 📜 **License** | [View License](./LICENSE.md) |
 | 🎤 **Artist** | Abu Sayed |
 
@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric goes here]
+> في عيونك شفت النور، قلبي بيك مسحور
+> إنت سبب الهدوء، روحي معاك بتدور
+> خذني لحضنك أوام، داوي جراح الأيام
+> (حبيبي) في الليل الطويل، إنت أحلى غرام
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
